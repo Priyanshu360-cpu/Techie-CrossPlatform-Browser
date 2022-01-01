@@ -26,6 +26,6 @@ Made with C sharp ON VS 2022
 
 **Download the codes and run your own browser in your mobile :)**
 
-**Make Sure to leave a ⭐ if you liked to code**
+**Make Sure to leave a ⭐ if you liked the code**
 
 *Made with ❤️ by Priyanshu*

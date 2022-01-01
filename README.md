@@ -12,7 +12,15 @@ A loading feature to scratch your timings
 A feature to go back and go ahead
 
 Set Homepage
+``` 
+# Supported Devices 
 ```
+Android 
+Ios
+```
+
 **Download the codes and run your own browser in your mobile :)**
+
 **Make Sure to leave a star if you liked to code**
+
 *Made with <3 by Priyanshu*

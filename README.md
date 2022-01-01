@@ -3,20 +3,20 @@
 ```
 Made with C sharp ON VS 2022
 
-Uses Xamarin Forms to fromat the display
+•Uses Xamarin Forms to fromat the display
 
-Uses webview feature of xamarin for publishing pages
+•Uses webview feature of xamarin for publishing pages
 
-A loading feature to scratch your timings
+•A loading feature to scratch your timings
 
-A feature to go back and go ahead
+•A feature to go back and go ahead
 
-Set Homepage
+•Set Homepage
 ``` 
 # Supported Devices 
 ```
-Android 
-Ios
+•Android 
+•Ios
 ```
 
 **Download the codes and run your own browser in your mobile :)**

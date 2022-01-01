@@ -19,6 +19,10 @@ Made with C sharp ON VS 2022
 •Ios
 ```
 
+# Preview
+
+<img src = "https://cdn.discordapp.com/attachments/922908358493761637/926880360703332442/unknown.png"></img>
+
 **Download the codes and run your own browser in your mobile :)**
 
 **Make Sure to leave a star if you liked to code**

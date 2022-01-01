@@ -1,5 +1,5 @@
 # Techxie-CrossPlatform-Browser
-#Built with C sharp
+# Built with C sharp
 ```
 Made with C sharp ON VS 2022
 

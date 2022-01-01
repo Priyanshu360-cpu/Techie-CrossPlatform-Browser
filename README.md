@@ -21,7 +21,7 @@ Made with C sharp ON VS 2022
 
 # Preview
 
-<img src = "https://cdn.discordapp.com/attachments/922908358493761637/926880360703332442/unknown.png"></img>
+<img src = "https://cdn.discordapp.com/attachments/922908358493761637/926881113530572851/unknown.png"></img>
 
 **Download the codes and run your own browser in your mobile :)**
 
